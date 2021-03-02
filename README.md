@@ -23,7 +23,7 @@ View deployed application here:
 ## Installation
 
 1. [HTML](https://www.w3schools.com/html/)
-2. [CSS] (https://getbootstrap.com/)
+2. [CSS](https://getbootstrap.com/)
 3. [Font-Awesome](https://fontawesome.com/)
 4. [Javascript](https://www.javascript.com/)
 5. [Express](https://www.npmjs.com/package/express)
@@ -33,21 +33,18 @@ View deployed application here:
 
 1. Navigate to the landing page. 
 The following image displays the landing page: 
-```md
-![alt text](/Assets/note-taker-3.png)
-```
+![alt text](./Assets/note-taker-3.png)
+
 
 2. Enter note into empty field. 
 The following image displays the empty field on the right hand side and existing tasks on the left hand side: 
-```md
-![alt text](/Assets/note-taker-1.png)
-```
+![alt text](./Assets/note-taker-1.png)
+
 
 3. In the nav bar, click save icon to save image or write icon to write a new note.
 The following image displays an example of the user inputting their note into the empty field: 
-```md
-![alt text](/Assets/note-taker-2.png)
-```
+![alt text](./Assets/note-taker-2.png)
+
 
 ## License
 
